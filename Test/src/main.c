@@ -57,12 +57,13 @@ int main(void)
   */
 
   /* TODO - Add your application code here */
-
+  int x = 0;
   /* Infinite loop */
   while (1)
   {
 	i++;
 	i--;
 	i++;
+	x++;
   }
 }
