@@ -63,5 +63,6 @@ int main(void)
   {
 	i++;
 	i--;
+	i++;
   }
 }
